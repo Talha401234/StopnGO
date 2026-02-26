@@ -11,14 +11,14 @@ package com.mycompany.stopandgo;
 public class STOPANDGO {
 
     public static void main(String[] args) {
-        System.out.println("  ********  ");
-        System.out.println(" *        * ");
-        System.out.println("*   STOP   *");
-        System.out.println(" *        * ");
-        System.out.println("  ********  ");
-        System.out.println("     **     ");
-        System.out.println("     **     ");
-        System.out.println("     **     ");
-        System.out.println("     **     ");
+        System.out.println("  ********    ********  ");
+        System.out.println(" *        *  *        * ");
+        System.out.println("*   STOP   **     GO   *");
+        System.out.println(" *        *  *        * ");
+        System.out.println("  ********    ********  ");
+        System.out.println("     **           **    ");
+        System.out.println("     **           **    ");
+        System.out.println("     **           **    ");
+        System.out.println("     **           **    ");
     }
 }
